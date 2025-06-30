@@ -51,6 +51,12 @@
   - Tech Used: HTML, CSS, JavaScript
   - Description: Static website to showcase a restaurant with beautiful UI.
 
+ - 💪 [Gym Website (React.js)](https://github.com/jitendrabisht/Gym-Website)  
+  A fully responsive modern website for a fitness center. Built with React.js and Tailwind CSS.
+
+- 👨‍💼 [Employee Management System (Python & MongoDB)](https://github.com/jitendrabisht/Employee-Management)  
+  A Python desktop app to manage employees, attendance, and salaries using MongoDB database.
+
 ---
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-profile)
